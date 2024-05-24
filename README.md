@@ -1,1 +1,1 @@
-Netflix este projeto mostra  como usaar as tecnologias HTML e CSS para criar coisas a partir de outras existentes.![Netflix imagem](https://github.com/frankao506/Netflix/assets/148815946/9c2b5ca5-b376-4d83-8b4d-204883869d76)
+Netflix este projeto mostra  como usaar as tecnologias HTML e CSS para criar coisas a partir de outras existentes.![Netflix imagem]
